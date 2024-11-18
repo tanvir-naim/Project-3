@@ -1,0 +1,178 @@
+body,
+html{
+    height: 100%;
+}
+
+
+
+.nav-w-h{
+    width: 1920;
+    height: 120;
+}
+
+.naim{
+    justify-content: center;
+}
+
+.button-1{
+    display: flex;
+    justify-content: end;
+}
+
+.home-1{
+    width: 1920px;
+    height: 620.41px;
+    background-color: rgb(245, 252, 255);
+}
+
+.rounded-h{
+    padding-top: 115px;
+}
+
+.btn-1{
+    width: 140.67px;
+    height: 50.67px;
+}
+
+#skill{
+    padding-top: 107px;
+}
+
+#about{
+    padding-top: 200px;
+
+}
+.about-me{
+    width: 600px;
+    height: 700px;
+}
+
+.padding{
+    padding-top: px;
+}
+
+.button-img{
+    display: flex;
+    justify-content: end;
+}
+
+.portfolio-header{
+    padding-top: 140px;
+}
+
+.portfolio{
+    padding-top: 60px;
+}
+
+.rounded-2{
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.testimonial{
+    padding-top: 100px;
+}
+
+.testimonial-length{
+    
+    width: 1500px;
+    height: 580.41px;
+    background-color: rgb(245, 252, 255);
+}
+
+
+.Contact{
+    padding-top: 125px;
+}
+
+
+
+.select-1{
+    justify-content: right;
+    padding-left: 331px;
+    width: 967px;
+}
+
+.select-2{
+    
+    padding-left: 331px;
+    width: 967px;
+}
+
+.right-1{
+    padding-left: 331px;
+}
+
+.box-stoke{
+    stroke-width: 3px blue;
+    background-color: blue;
+}
+
+.footer-section{
+    background-color: rgb(245, 252, 255);
+    padding: 40px 0px;
+}
+
+.social-icons a{
+    padding: 10px;
+    
+    
+}
+
+.footerNav{
+    margin: 30px 0;
+}
+
+.footerNav ul{
+    display: flex;
+    justify-content: center;
+}
+
+.footerNav ul li a{
+    color: black;
+    margin: px;
+    text-decoration: none;
+    
+}
+
+.hr-right{
+    width: 64%;
+    margin: 0 auto;
+}
+
+.navbar-2{
+    
+        width: 1920;
+        height: 120;
+    
+    
+}
+
+.footer-top-padding{
+    padding-top: 100px;
+    flex-direction: column;
+}
+
+
+.footer-area{
+    justify-content: 
+    width: 250px ;
+    height: 150.41px;
+    background-color: rgb(240, 246, 250);
+
+
+}
+.footer-area-2{
+    justify-content: 
+    width: 250px ;
+    height: 150.41px;
+    background-color: rgb(240, 246, 250);
+}
+
+.button-center{
+    width: 140.67px;
+    height: 50.67px;
+    text-align: center;
+    align-items: center;
+    margin-left: 600px;
+}
